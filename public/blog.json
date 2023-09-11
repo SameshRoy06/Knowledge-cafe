@@ -1,0 +1,48 @@
+[
+    {
+      "id": 12345,
+      "cover": "https://i.ibb.co/HYvbZvN/priscilla-du-preez-WWD93-Icc30-Y-unsplash.jpghttps://i.ibb.co/MSPFxw9/office-desk-table-with-pencils-supplies-cup.jpg",
+      "title": "The Enchanted Forest",
+      "author": "Eleanor Green",
+      "author_img": "https://i.ibb.co/CtQJsqc/pretty-curly-young-woman-writing-notes-startup-project.jpg",
+      "reading_time": "25 minutes",
+      "hashtags": ["fantasy", "magic", "adventure"]
+    },
+    {
+      "id": 67890,
+      "cover": "https://example.com/cover2.jpg",
+      "title": "Infinite Horizons",
+      "author": "Samuel Rivers",
+      "author_img": "https://example.com/author2.jpg",
+      "reading_time": "30 minutes",
+      "hashtags": ["scifi", "exploration", "future"]
+    },
+    {
+      "id": 23456,
+      "cover": "https://example.com/cover3.jpg",
+      "title": "Whispers in the Dark",
+      "author": "Isabella Nightingale",
+      "author_img": "https://example.com/author3.jpg",
+      "reading_time": "20 minutes",
+      "hashtags": ["mystery", "suspense", "thriller"]
+    },
+    {
+      "id": 78901,
+      "cover": "https://example.com/cover4.jpg",
+      "title": "Echoes of the Past",
+      "author": "Alexander Stone",
+      "author_img": "https://example.com/author4.jpg",
+      "reading_time": "15 minutes",
+      "hashtags": ["history", "memories", "nostalgia"]
+    },
+    {
+      "id": 34567,
+      "cover": "https://example.com/cover5.jpg",
+      "title": "Starry Nights",
+      "author": "Olivia Skyler",
+      "author_img": "https://example.com/author5.jpg",
+      "reading_time": "18 minutes",
+      "hashtags": ["romance", "stars", "love"]
+    }
+  ]
+  
